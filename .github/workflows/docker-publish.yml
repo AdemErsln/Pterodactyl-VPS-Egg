@@ -1,4 +1,4 @@
-name: Exagear-Arm64
+name: VPS
 
 on:
   workflow_dispatch:
